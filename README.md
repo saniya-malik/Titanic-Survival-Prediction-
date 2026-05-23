@@ -113,4 +113,4 @@ jupyter notebook titanic.ipynb
 
 ---
 
-*Built as part of my ML learning journey — 
+Built as part of my ML learning journey — 
